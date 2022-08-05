@@ -1,0 +1,47 @@
+.centerDiv{
+    margin-right:auto;
+    margin-left: auto;
+    display: block;
+    width: 35%;
+
+}
+
+
+.btn_middle{
+
+    width: 60% !important;
+
+}
+
+body{
+    background-color: #e5e3e3;
+}
+
+.aTagPost{
+    text-decoration: none;
+    color: black;
+}
+
+.aTagPost:hover{
+    color: black;
+    text-decoration: none;
+
+}
+
+.personal_image{
+position: absolute;
+    top: 56%!important;
+    left: 2%;
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.personal_name{
+    position: absolute;
+    top: 83%!important;
+    left: 24%;
+}
+
+/*nav personal*/
+
